@@ -69,29 +69,13 @@
                 <div class="top-left">
                     <ul class="info clearfix">
                         <li><i class="icon-1"></i><a href="mailto:info@yourmail.com">info@yourmail.com</a></li>
-                        <li><i class="icon-2"></i>12 Queen Park, LA, USA</li>
-                        <li><i class="icon-3"></i>Mon _ Sat: 9.00 to 18.00</li>
+                        <li><i class="icon-2"></i>322 Albert Street,Brunswick VIC 3056</li>
+                        <li><a href="#"><i class="icon-4"></i>&nbsp;</a></li>
+                        <li><a href="#"><i class="icon-5"></i>&nbsp;</a></li>
+                        <li><a href="#"><i class="icon-6"></i>&nbsp;</a></li>
                     </ul>
                 </div>
-                <div class="top-right">
-                    <ul class="social-links clearfix">
-                        <li><a href="index.php"><i class="icon-4"></i></a></li>
-                        <li><a href="index.php"><i class="icon-5"></i></a></li>
-                        <li><a href="index.php"><i class="icon-6"></i></a></li>
-                        <li><a href="index.php"><i class="icon-7"></i></a></li>
-                    </ul>
-                    <div class="search-form">
-                        <form action="index.php" method="post">
-                            <div class="form-group">
-                                <input type="search" name="search-field" placeholder="Search ..." required>
-                                <button type="submit"><i class="icon-8"></i></button>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="btn-box">
-                        <a href="index.php"><span>Appointment</span></a>
-                    </div>
-                </div>
+              
             </div>
         </div>
     </div>
@@ -126,11 +110,11 @@
                                         <li><a href="coaching-details-4.html">TOEFL Coaching</a></li> -->
                                     </ul>
                                 </li>
-                                <li class="dropdown"><a href="index.php">Services</a>
+                                <li class="dropdown"><a href="#">Services</a>
                                     <ul>
-                                        <li><a href="countries.html">Study Abroad</a></li>
-                                        <li><a href="countries-details.html">Migration</a></li>
-                                        <li><a href="countries-details-2.html">Tours & Travels</a></li>
+                                        <li><a href="service-study.php">Study Abroad</a></li>
+                                        <li><a href="service-migration.php">Migration</a></li>
+                                        <li><a href="service-tour.php">Tours & Travels</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="media.php">Media / Gallery</a>

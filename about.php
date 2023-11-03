@@ -155,7 +155,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="icon-17"></i></div>
                                     <h3><a href="index.html">Visa</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet.</p>
+                                    <p>We help with both online and offline visa application submissions, obtain police clearance certificates, assist with medical certificate requirements, and provide notarization and other legal services.</p>
                                 </div>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="icon-18"></i></div>
                                     <h3><a href="index.html">Passport</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet.</p>
+                                    <p>We offer support for lost or stolen passport replacements, schedule in-person submission appointments, assist with name changes, and provide passport renewal services.</p>
                                 </div>
                             </div>
                         </div>
@@ -173,7 +173,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="icon-19"></i></div>
                                     <h3><a href="index.html">Immigration</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet.</p>
+                                    <p>We assess your eligibility, determine the ideal immigration path based on your qualifications and priorities, and guide you through a seamless application process.</p>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +182,7 @@
                                 <div class="inner-box">
                                     <div class="icon-box"><i class="icon-20"></i></div>
                                     <h3><a href="index.html">Translation</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet.</p>
+                                    <p>We provide document translation, certified translations for official or legal purposes, and proficiency in multiple languages.</p>
                                 </div>
                             </div>
                         </div>

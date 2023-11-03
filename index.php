@@ -483,7 +483,7 @@
                                 </div>
                                 <div class="overlay-content">
                                     <h3><a href="coaching-details-3.html">PTE Coaching</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet magna.</p>
+                                    <p>Prosper in English with our top-notch PTE coaching and reach your language proficiency goals.</p>
                                     <div class="link"><a href="coaching-details-3.html"><i class="icon-9"></i></a></div>
                                 </div>
                             </div>
@@ -503,7 +503,7 @@
                                 </div>
                                 <div class="overlay-content">
                                     <h3><a href="coaching-details-2.html">OET Coaching</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet magna.</p>
+                                    <p> Unlock your healthcare career with our specialized OET coaching and language fluency support.</p>
                                     <div class="link"><a href="coaching-details-2.html"><i class="icon-9"></i></a></div>
                                 </div>
                             </div>
@@ -518,12 +518,12 @@
                                     <figure class="image"><img src="assets/images/resource/coaching-4.jpg" alt=""></figure>
                                 </div>
                                 <div class="static-content">
-                                    <h3>TOEFL <br />Coaching</h3>
+                                    <h3>IELTS <br />Coaching</h3>
                                     <div class="link"><a href="coaching-details-2.html"><i class="icon-9"></i></a></div>
                                 </div>
                                 <div class="overlay-content">
-                                    <h3><a href="coaching-details-2.html">TOEFL Coaching</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet magna.</p>
+                                    <h3><a href="coaching-details-2.html">IELTS Coaching</a></h3>
+                                    <p>Achieve your global ambitions with our IELTS coaching – your pathway to international opportunities.</p>
                                     <div class="link"><a href="coaching-details-2.html"><i class="icon-9"></i></a></div>
                                 </div>
                             </div>
@@ -537,12 +537,12 @@
                                     <figure class="image"><img src="assets/images/resource/coaching-6.jpg" alt=""></figure>
                                 </div>
                                 <div class="static-content">
-                                    <h3>IELTS <br />Coaching</h3>
+                                    <h3>TOEFL <br />Coaching</h3>
                                     <div class="link"><a href="coaching-details-4.html"><i class="icon-9"></i></a></div>
                                 </div>
                                 <div class="overlay-content">
-                                    <h3><a href="coaching-details-4.html">IELTS Coaching</a></h3>
-                                    <p>Sed gravida nisl a porta tincidunt. Integer aliquam nisi sit amet magna.</p>
+                                    <h3><a href="coaching-details-4.html">TOEFL Coaching</a></h3>
+                                    <p>Excel in English and open doors to academic success and beyond with our expert TOEFL coaching.</p>
                                     <div class="link"><a href="coaching-details-4.html"><i class="icon-9"></i></a></div>
                                 </div>
                             </div>

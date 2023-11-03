@@ -47,10 +47,10 @@
             <div class="pattern-layer" style="background-image: url(assets/images/shape/shape-67.png);"></div>
             <div class="auto-container">
                 <div class="content-box">
-                    <h1>News</h1>
+                    <h1>Blog</h1>
                     <ul class="bread-crumb clearfix">
                         <li><a href="index.html">Home</a></li>
-                        <li>News</li>
+                        <li>Blog</li>
                     </ul>
                 </div>
             </div>
@@ -70,16 +70,21 @@
                                     <div class="lower-content">
                                         <ul class="post-info clearfix">
                                             <li><i class="icon-27"></i><a href="blog-details.html">Admin</a></li>
-                                            <li><i class="icon-56"></i>1 July 2023</li>
+                                            <li><i class="icon-56"></i>1 June 2023</li>
                                             <!-- <li><i class="icon-57"></i><a href="blog-details.html">03 Comments</a></li> -->
                                         </ul>
-                                        <h3><a href="blog-details.html">New visa application charges</a></h3>
-                                        <p>From 1 July 2023, new visa application charges will apply.
-                                            The new charges apply to all visa applications received by the Department on or after 1 July
-                                            2023.
-                                            The website will be updated to reflect these changes for each individual visa type. In the
-                                            meantime, you can determine the new visa application charge (VAC) by using the Visa
-                                            Pricing Estimator.
+                                        <h3><a href="blog-details.html">Straight-To-Residency Immigration Setting For Nurses In New Zealand</a></h3>
+                                        <p>Here’s some good news for nurses! New Zealand Immigration Minister Michael Wood recently announced
+                                            that nurses, midwives and any specialist doctors would be added to the straight-to-residence pathways among
+                                            other new immigration policies. This new setting came into being on December 15.
+                                            “As part of our signalled review, we are expanding the Green List settings to include more professions in our
+                                            healthcare, education and construction sectors, to give a competitive edge in a highly competitive global
+                                            environment,” he said.
+                                            The official pointed out that since the pandemic, 3,474 nurses have arrived in the country and that they need
+                                            to encourage more nurses to choose New Zealand while adding that these roles will further help build their
+                                            families up long term.
+                                            On another optimistic note, Wood added, “Our message to nurses everywhere: we are the best place to live,
+                                            work and play, and you will be able to seek immediate residence.”
                                         </p>
                                         <!-- <div class="link-btn">
                                             <a href="blog-details.html"><span>Read More</span></a>
@@ -93,35 +98,19 @@
                                     <div class="lower-content">
                                         <ul class="post-info clearfix">
                                             <li><i class="icon-27"></i><a href="blog-details.html">Admin</a></li>
-                                            <li><i class="icon-56"></i>Jan 1, 2023 </li>
+                                            <li><i class="icon-56"></i>May 1, 2023 </li>
                                             <!-- <li><i class="icon-57"></i><a href="blog-details.html">08 Comments</a></li> -->
                                         </ul>
-                                        <h3><a href="blog-details.html">Expedited citizenship pathway for New Zealand stream Skilled
-                                                Independent (subclass 189) visa holders</a></h3>
-                                        <p>From 1 January 2023, New Zealand stream Skilled Independent (subclass 189) visa holders
-                                            who have previously held a Special Category (subclass 444) visa will have the
-                                            commencement of their permanent residence period for Australian citizenship purposes
-                                            backdated to 1 January 2022. This also applies to their New Zealand citizen family members
-                                            who hold a Skilled Independent (subclass 189) visa.
-                                            The general residence requirement for Australian citizenship by conferral is set out in
-                                            the Australian Citizenship Act 2007. To meet the general residence requirement an applicant
-                                            must be lawfully present in Australia for 4 years, including 12 months as a permanent
-                                            resident, immediately before the date of application.
-                                            The backdating of permanent residence means that, from 1 January 2023, New Zealand
-                                            stream Skilled Independent (subclass 189) visa holders are eligible to apply for Australian
-                                            citizenship by conferral immediately following visa grant, without needing to hold this visa
-                                            for 12 months.
-                                            Before applying, applicants should confirm their eligibility.
-                                            The backdating of permanent residence also affects children born in Australia to certain
-                                            Special Category (subclass 444) visa holders. Children born in Australia between 1 January
-                                            2022 and 30 June 2023, before the grant of their parent’s New Zealand stream Skilled
-                                            Independent (subclass 189) visa, and where this visa was also granted between these dates,
-                                            may retrospectively acquire Australian citizenship automatically by birth. Children who meet
-                                            these circumstances can apply for evidence of citizenship.
-                                            These changes support the close ties between our two nations, and the positive contribution
-                                            New Zealand citizens make to Australia.
-                                            The Government is considering future migration and citizenship pathways for New Zealand
-                                            citizens in Australia. Further information will be provided in due course.</p>
+                                        <h3><a href="blog-details.html">The Parent Resident Visa will reopen with new requirements</a></h3>
+                                        <p>The visa with its current criteria is closed from 7 October 2019. It will reopen in February 2020 with
+                                            new criteria. We are not accepting expressions of interest (EOIs) until the visa reopens. We will start
+                                            selecting EOIs in May 2020. The changes we are making to the visa include: limiting the number of
+                                            people who can get the visa each year to 1000 standardising the expression of interest process and
+                                            removing the 2-tier system introducing new financial requirements for sponsors, which are updated
+                                            every year based on the New Zealand median income asking sponsors to provide evidence of their
+                                            annual income through Inland Revenue tax statements, and show they have met the income
+                                            requirement for 2 out of the 3 years before the visa application is lodged removing the option to meet
+                                            financial eligibility criteria through a parent’s guaranteed lifetime income or settlement funds.</p>
                                         <!-- <div class="link-btn">
                                             <a href="blog-details.html"><span>Read More</span></a>
                                         </div> -->
@@ -134,18 +123,27 @@
                                     <div class="lower-content">
                                         <ul class="post-info clearfix">
                                             <li><i class="icon-27"></i><a href="blog-details.html">Admin</a></li>
-                                            <li><i class="icon-56"></i>July 1, 2022 </li>
+                                            <li><i class="icon-56"></i>Jan 1, 2023 </li>
                                             <!-- <li><i class="icon-57"></i><a href="blog-details.html">02 Comments</a></li> -->
                                         </ul>
-                                        <h3><a href="blog-details.html">Permanent residence pathways for Temporary Skill Shortage (Shortterm stream) and Temporary Work (Skilled) visa holders</a></h3>
-                                        <p>From 1 July 2022 there will be changes to improve access to permanent residence for skilled
-                                            migrant workers who chose to stay in Australia during the pandemic.
-                                            These arrangements extend to Temporary Skill Shortage (TSS) subclass 482 (Short-term
-                                            stream) and Temporary Work (Skilled) subclass 457 visa holders.
-                                            Temporary Skill Shortage (TSS) visa holders in the short-term stream
-                                            Temporary Skill Shortage (TSS) subclass 482 visa holders in the short-term stream will be
-                                            able to apply for permanent residence through the Temporary Residence Transition (TRT)
-                                            stream of the Employer Nomination Scheme (ENS) subclass 186 visa.
+                                        <h3><a href="blog-details.html">Temporary migrant worker exploitation review</a></h3>
+                                        <p>
+                                        <h6>Reducing migrant worker exploitation</h6>
+                                        The Ministry for Business, Innovation and Employment (MBIE) is leading a review of temporary
+                                        migrant exploitation in New Zealand. The aim is to reduce exploitation of temporary migrant workers
+                                        including international students. The review has 3 areas of focus: preventing migrant exploitation
+                                        protecting migrants from exploitation, and enforcing employment standards and immigration
+                                        obligations.
+                                        <h6>Make a submission</h6>
+                                        We want to hear from a variety of people, who can bring their views and experiences as migrants and
+                                        migrant representatives, businesses and employers, and advocates of all stakeholders. Everyone is
+                                        invited to make a submission. You can find out full details of the review and the proposals on the MBIE
+                                        website. We want your feedback on the proposals and to hear what ideas you have to reduce the
+                                        exploitation of migrant workers. Have your say — Temporary migrant worker exploitation review
+                                        consultation | MBIE
+                                        <h6>Reporting exploitation</h6>
+                                        To report exploitation, call Employment New Zealand. 0800 20 90 20 To report anonymously, call
+                                        Crimestoppers or fill out a form on their website. 0800 555 111 Crimestoppers
                                         </p>
                                         <!-- <div class="link-btn">
                                             <a href="blog-details.html"><span>Read More</span></a>
@@ -155,8 +153,8 @@
                             </div>
                             <div class="pagination-wrapper pt_40">
                                 <ul class="pagination">
-                                    <li><a href="media.php" class="current">1</a></li>
-                                    <li><a href="media-2.php">2</a></li>
+                                    <li><a href="media.php">1</a></li>
+                                    <li><a href="media-2.php" class="current">2</a></li>
                                     <!-- <li><a href="media.php">3</a></li>
                                     <li><a href="media.php"><i class="icon-58"></i></a></li>
                                     <li><a href="media.php">5</a></li>

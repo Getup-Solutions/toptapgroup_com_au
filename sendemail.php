@@ -15,18 +15,18 @@ $message = isset( $_POST['message'] ) ? preg_replace( "/(From:|To:|BCC:|CC:|Subj
 
 // If all values exist, send the email
 if ( $userName && $senderEmail && $userPhone && $userSubject && $message) {
-  $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
+  $recipient = "ameer" . " <" . "ameer@getupsolutions.com.au" . ">";
   $headers = "From: " . $userName . "";
   $msgBody = " Name: ". $userName . " Email: ". $senderEmail . " Phone: ". $userPhone . " Subject: ". $userSubject . " Message: " . $message . "";
   $success = mail( $recipient, $headers, $msgBody );
 
   //Set Location After Successsfull Submission
-  header('Location: contact.html?message=Successfull');
+  header('Location: contact.php?message=Successfull');
 }
 
 else{
 	//Set Location After Unsuccesssfull Submission
-  	header('Location: contact.html?message=Failed');	
+  	header('Location: contact.php?message=Failed');	
 }
 
 ?>
